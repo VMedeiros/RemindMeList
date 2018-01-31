@@ -1,0 +1,13 @@
+<ActionBar class="action-bar" title="Remind Me List"></ActionBar>
+<StackLayout class="cardLogin">
+    <Image class="logo" [src]="'~/assets/time.png'" stretch="none" horizontalAlignment="center"></Image>
+    <StackLayout [class]="isLoggingIn ? 'form white' : 'form gold'">
+        <TextField #email class="input input-border" hint="Email" keyboardType="email" [(ngModel)]="user.email" autocorrect="false" autocapitalizationType="none"></TextField>
+        <TextField #password class="input input-border" hint="Senha" secure="true" [(ngModel)]="user.password"></TextField>
+
+        <Button [text]="isLoggingIn ? 'Entrar' : 'Registrar'" class="btn btn-primary" (tap)="submit()"></Button>
+        <Button [text]="isLoggingIn ? 'Registrar' : 'Voltar'" (tap)="toggleDisplay()" class="btn btn-primary"></Button>
+
+        <Button class="btn btn-secondary" text="Esqueceu a senha" (tap)="forgotPassword()" [opacity]="isLoggingIn ? 1 : 0"></Button>
+    </StackLayout>
+</StackLayout>

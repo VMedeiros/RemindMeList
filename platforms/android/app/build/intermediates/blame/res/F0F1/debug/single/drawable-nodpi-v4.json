@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Pos_Victor\\RemindMeList\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-nodpi-v4\\splash_screen.xml",
+        "source": "C:\\Pos_Victor\\RemindMeList\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Pos_Victor\\giftler-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-nodpi-v4\\splash_screen.xml",
+        "source": "C:\\Pos_Victor\\giftler-master\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
+    }
+]

@@ -20,7 +20,7 @@ var ActivityIndicator = (function (_super) {
     };
     ActivityIndicator.prototype[activity_indicator_common_1.busyProperty.setNative] = function (value) {
         if (this.visibility === activity_indicator_common_1.Visibility.VISIBLE) {
-            this.nativeViewProtected.setVisibility(value ? android.view.View.VISIBLE : android.view.View.INVISIBLE);
+            this.nativeView.setVisibility(value ? android.view.View.VISIBLE : android.view.View.INVISIBLE);
         }
     };
     ActivityIndicator.prototype[activity_indicator_common_1.visibilityProperty.getDefault] = function () {
@@ -29,13 +29,13 @@ var ActivityIndicator = (function (_super) {
     ActivityIndicator.prototype[activity_indicator_common_1.visibilityProperty.setNative] = function (value) {
         switch (value) {
             case activity_indicator_common_1.Visibility.VISIBLE:
-                this.nativeViewProtected.setVisibility(this.busy ? android.view.View.VISIBLE : android.view.View.INVISIBLE);
+                this.nativeView.setVisibility(this.busy ? android.view.View.VISIBLE : android.view.View.INVISIBLE);
                 break;
             case activity_indicator_common_1.Visibility.HIDDEN:
-                this.nativeViewProtected.setVisibility(android.view.View.INVISIBLE);
+                this.nativeView.setVisibility(android.view.View.INVISIBLE);
                 break;
             case activity_indicator_common_1.Visibility.COLLAPSE:
-                this.nativeViewProtected.setVisibility(android.view.View.GONE);
+                this.nativeView.setVisibility(android.view.View.GONE);
                 break;
             default:
                 throw new Error("Invalid visibility value: " + value + ". Valid values are: \"" + activity_indicator_common_1.Visibility.VISIBLE + "\", \"" + activity_indicator_common_1.Visibility.HIDDEN + "\", \"" + activity_indicator_common_1.Visibility.COLLAPSE + "\".");
@@ -46,10 +46,10 @@ var ActivityIndicator = (function (_super) {
     };
     ActivityIndicator.prototype[activity_indicator_common_1.colorProperty.setNative] = function (value) {
         if (value instanceof activity_indicator_common_1.Color) {
-            this.nativeViewProtected.getIndeterminateDrawable().setColorFilter(value.android, android.graphics.PorterDuff.Mode.SRC_IN);
+            this.nativeView.getIndeterminateDrawable().setColorFilter(value.android, android.graphics.PorterDuff.Mode.SRC_IN);
         }
         else {
-            this.nativeViewProtected.getIndeterminateDrawable().clearColorFilter();
+            this.nativeView.getIndeterminateDrawable().clearColorFilter();
         }
     };
     return ActivityIndicator;

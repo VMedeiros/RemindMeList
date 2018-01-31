@@ -1,0 +1,19 @@
+<ActionBar class="action-bar" title="{{name}}"></ActionBar>
+<ScrollView>
+    <StackLayout #myGift class="detailList">
+        <Label class="text" [text]="'Lembrete: ' +name+''"></Label>
+
+        <StackLayout class="card"><br>
+            <Image class="logo" horizontalAlignment="center" width="70" height="70" [src]="'~/assets/anotation.png'"></Image>
+            <Label class="h2 header" text="Me lembre de..."></Label>
+            <TextField hint="Descrição do lembrete" [text]="description" class="m-t-10 input input-border" [(ngModel)]="description"></TextField>
+
+            <GridLayout columns="*,*">
+                <Button col="0" text="Sair" class="btn-secondary" (tap)="cancel()"></Button>
+                <Button col="1" class="btn-primary" text="Salvar" (tap)="editGift(id)"></Button>
+            </GridLayout>
+
+        </StackLayout>
+
+    </StackLayout>
+</ScrollView>

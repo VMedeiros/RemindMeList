@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Pos_Victor\\RemindMeList\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\jvleitao\\.android\\build-cache\\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Pos_Victor\\RemindMeList\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\jvleitao\\.android\\build-cache\\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Pos_Victor\\giftler-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\jvleitao\\.android\\build-cache\\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Pos_Victor\\RemindMeList\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\jvleitao\\.android\\build-cache\\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Pos_Victor\\giftler-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\jvleitao\\.android\\build-cache\\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Pos_Victor\\giftler-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\jvleitao\\.android\\build-cache\\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Pos_Victor\\giftler-master\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\jvleitao\\.android\\build-cache\\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Pos_Victor\\RemindMeList\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\jvleitao\\.android\\build-cache\\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:3:2-40
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:3:2-40
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\F0\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\F0\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\F0\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\943dee2167ace4a25d9626b70acf51651218aa2b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\b6383f8db815541c7b1d828e07ab7b3d2c7293e6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\c6a402c3544ad9f46f6154f1be4119f61d6ccf9f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\18b99fa8f1d40e5d86415f0ffef786d7b5bb8e2f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\4bd8894b612c5b9f863ca0b6763f5686eec52b30\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\0430764fda045802b1b8afbb00883941e188122a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\56057ca347971e57a7460383caf4da658bc7ad5c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.2.2] C:\Users\jvleitao\.android\build-cache\147e65a0760fd9e93fedb114af46585988c902ab\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] C:\Users\jvleitao\.android\build-cache\937ae43bf1c6d8343d442127deddb1337873d6d6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.2.2] C:\Users\jvleitao\.android\build-cache\d84098151bf93f146d40c997a27ab20a639cbf74\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.2.2] C:\Users\jvleitao\.android\build-cache\677bb2d8ea732e27bfacf2e6b87ef896bb19dfbf\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:11.2.2] C:\Users\jvleitao\.android\build-cache\40bbf70a4c06d145f746fd71e18f90d5237ddcec\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.2.2] C:\Users\jvleitao\.android\build-cache\65fdec46342bee69b68149d46b1279df93217cdc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.2.2] C:\Users\jvleitao\.android\build-cache\fc3b0a5fa3c78fe9eb229e0388117d3df2f5dcbb\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.2.2] C:\Users\jvleitao\.android\build-cache\d581c12eff1522e75c89de4fc3c3c73b84e424a2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.2.2] C:\Users\jvleitao\.android\build-cache\ca0f2806cddfaeaf4d9ed2b66d523a03fe25d94e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.2.2] C:\Users\jvleitao\.android\build-cache\edc1a0087cb84e01d7a512694ca083e2cbfd44ec\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] C:\Users\jvleitao\.android\build-cache\88bb6717183d535eefcff7aeedd980a6e786fc34\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] C:\Users\jvleitao\.android\build-cache\523a71270e8c78d1d887a033e5233ce2f56c1469\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\f1791a61ba45f7a54d8b2783b27abbe294da5907\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\b23b09cab150e22fc38d93ebecdf2437317b8581\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\5eef243a272652b86b72f6b91739faa2386d6a3b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\1b44f0cae6655dfa7e0f83a78da7f7c15b4a9d07\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\9665fffd299a739ff3a353f5fd06e388dda5f65c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\e3c72b722406c6b90bacc62b89fcaa98a8c8cc81\output\AndroidManifest.xml:21:5-23:58
+MERGED from [:nativescript-optimized:] C:\Users\jvleitao\.android\build-cache\3af446cfe6526a3559bc588864dfd2884bf9a39a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\jvleitao\.android\build-cache\8154a9bcb0c362ef8f6ed6dd5919a973b95ba1e2\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\c6a402c3544ad9f46f6154f1be4119f61d6ccf9f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\F0\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\F0\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] C:\Users\jvleitao\.android\build-cache\937ae43bf1c6d8343d442127deddb1337873d6d6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\943dee2167ace4a25d9626b70acf51651218aa2b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\b6383f8db815541c7b1d828e07ab7b3d2c7293e6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\c6a402c3544ad9f46f6154f1be4119f61d6ccf9f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\18b99fa8f1d40e5d86415f0ffef786d7b5bb8e2f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\4bd8894b612c5b9f863ca0b6763f5686eec52b30\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\56057ca347971e57a7460383caf4da658bc7ad5c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:11.2.2] C:\Users\jvleitao\.android\build-cache\147e65a0760fd9e93fedb114af46585988c902ab\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] C:\Users\jvleitao\.android\build-cache\937ae43bf1c6d8343d442127deddb1337873d6d6\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-auth:11.2.2] C:\Users\jvleitao\.android\build-cache\40bbf70a4c06d145f746fd71e18f90d5237ddcec\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-config:11.2.2] C:\Users\jvleitao\.android\build-cache\65fdec46342bee69b68149d46b1279df93217cdc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.2.2] C:\Users\jvleitao\.android\build-cache\fc3b0a5fa3c78fe9eb229e0388117d3df2f5dcbb\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.2.2] C:\Users\jvleitao\.android\build-cache\edc1a0087cb84e01d7a512694ca083e2cbfd44ec\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] C:\Users\jvleitao\.android\build-cache\88bb6717183d535eefcff7aeedd980a6e786fc34\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] C:\Users\jvleitao\.android\build-cache\523a71270e8c78d1d887a033e5233ce2f56c1469\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\f1791a61ba45f7a54d8b2783b27abbe294da5907\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\b23b09cab150e22fc38d93ebecdf2437317b8581\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\5eef243a272652b86b72f6b91739faa2386d6a3b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\1b44f0cae6655dfa7e0f83a78da7f7c15b4a9d07\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\9665fffd299a739ff3a353f5fd06e388dda5f65c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\e3c72b722406c6b90bacc62b89fcaa98a8c8cc81\output\AndroidManifest.xml:29:5-20
+MERGED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:11:5-22:19
+MERGED from [:widgets-release:] C:\Users\jvleitao\.android\build-cache\8154a9bcb0c362ef8f6ed6dd5919a973b95ba1e2\output\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\Pos_Victor\RemindMeList\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\943dee2167ace4a25d9626b70acf51651218aa2b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:customtabs:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\b6383f8db815541c7b1d828e07ab7b3d2c7293e6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\c6a402c3544ad9f46f6154f1be4119f61d6ccf9f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\63f6c2e8e6dd66937cecfd4a2aa28e2b4c77656a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\18b99fa8f1d40e5d86415f0ffef786d7b5bb8e2f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\4bd8894b612c5b9f863ca0b6763f5686eec52b30\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\0430764fda045802b1b8afbb00883941e188122a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\56057ca347971e57a7460383caf4da658bc7ad5c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\f1791a61ba45f7a54d8b2783b27abbe294da5907\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\b23b09cab150e22fc38d93ebecdf2437317b8581\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\5eef243a272652b86b72f6b91739faa2386d6a3b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\1b44f0cae6655dfa7e0f83a78da7f7c15b4a9d07\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\9665fffd299a739ff3a353f5fd06e388dda5f65c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\e3c72b722406c6b90bacc62b89fcaa98a8c8cc81\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\943dee2167ace4a25d9626b70acf51651218aa2b\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\jvleitao\.android\build-cache\943dee2167ace4a25d9626b70acf51651218aa2b\output\AndroidManifest.xml:23:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] C:\Users\jvleitao\.android\build-cache\937ae43bf1c6d8343d442127deddb1337873d6d6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] C:\Users\jvleitao\.android\build-cache\937ae43bf1c6d8343d442127deddb1337873d6d6\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] C:\Users\jvleitao\.android\build-cache\937ae43bf1c6d8343d442127deddb1337873d6d6\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] C:\Users\jvleitao\.android\build-cache\937ae43bf1c6d8343d442127deddb1337873d6d6\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\AndroidManifest.xml:33:16-90
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.2.2] C:\Users\jvleitao\.android\build-cache\fc3b0a5fa3c78fe9eb229e0388117d3df2f5dcbb\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] C:\Users\jvleitao\.android\build-cache\fc3b0a5fa3c78fe9eb229e0388117d3df2f5dcbb\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] C:\Users\jvleitao\.android\build-cache\fc3b0a5fa3c78fe9eb229e0388117d3df2f5dcbb\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] C:\Users\jvleitao\.android\build-cache\fc3b0a5fa3c78fe9eb229e0388117d3df2f5dcbb\output\AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.2.2] C:\Users\jvleitao\.android\build-cache\edc1a0087cb84e01d7a512694ca083e2cbfd44ec\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.2.2] C:\Users\jvleitao\.android\build-cache\edc1a0087cb84e01d7a512694ca083e2cbfd44ec\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.2.2] C:\Users\jvleitao\.android\build-cache\edc1a0087cb84e01d7a512694ca083e2cbfd44ec\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.2.2] C:\Users\jvleitao\.android\build-cache\edc1a0087cb84e01d7a512694ca083e2cbfd44ec\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.2.2] C:\Users\jvleitao\.android\build-cache\edc1a0087cb84e01d7a512694ca083e2cbfd44ec\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.2.2] C:\Users\jvleitao\.android\build-cache\523a71270e8c78d1d887a033e5233ce2f56c1469\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.2.2] C:\Users\jvleitao\.android\build-cache\523a71270e8c78d1d887a033e5233ce2f56c1469\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.2.2] C:\Users\jvleitao\.android\build-cache\523a71270e8c78d1d887a033e5233ce2f56c1469\output\AndroidManifest.xml:20:20-65
+service#org.nativescript.plugins.firebase.MyFirebaseMessagingService
+ADDED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:12:9-16:19
+	android:name
+		ADDED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:12:18-93
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:13:13-15:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:14:17-78
+	android:name
+		ADDED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:14:25-75
+service#org.nativescript.plugins.firebase.MyFirebaseInstanceIDService
+ADDED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:17:9-21:19
+	android:name
+		ADDED from [:firebase-release:] C:\Users\jvleitao\.android\build-cache\9560ce4ac9bd22c8c3a835eb6dfd47efb968385e\output\AndroidManifest.xml:17:18-94

@@ -9,16 +9,6 @@ var ImageAsset = (function (_super) {
         _this.android = asset;
         return _this;
     }
-    Object.defineProperty(ImageAsset.prototype, "android", {
-        get: function () {
-            return this._android;
-        },
-        set: function (value) {
-            this._android = value;
-        },
-        enumerable: true,
-        configurable: true
-    });
     ImageAsset.prototype.getImageAsync = function (callback) {
         var bitmapOptions = new android.graphics.BitmapFactory.Options();
         bitmapOptions.inJustDecodeBounds = true;

@@ -17,19 +17,19 @@ var Progress = (function (_super) {
         return 0;
     };
     Progress.prototype[progress_common_1.valueProperty.setNative] = function (value) {
-        this.nativeViewProtected.setProgress(value);
+        this.nativeView.setProgress(value);
     };
     Progress.prototype[progress_common_1.maxValueProperty.getDefault] = function () {
         return 100;
     };
     Progress.prototype[progress_common_1.maxValueProperty.setNative] = function (value) {
-        this.nativeViewProtected.setMax(value);
+        this.nativeView.setMax(value);
     };
     Progress.prototype[progress_common_1.colorProperty.getDefault] = function () {
         return null;
     };
     Progress.prototype[progress_common_1.colorProperty.setNative] = function (value) {
-        var progressDrawable = this.nativeViewProtected.getProgressDrawable();
+        var progressDrawable = this.nativeView.getProgressDrawable();
         if (!progressDrawable) {
             return;
         }
@@ -44,7 +44,7 @@ var Progress = (function (_super) {
         return null;
     };
     Progress.prototype[progress_common_1.backgroundColorProperty.setNative] = function (value) {
-        var progressDrawable = this.nativeViewProtected.getProgressDrawable();
+        var progressDrawable = this.nativeView.getProgressDrawable();
         if (!progressDrawable) {
             return;
         }

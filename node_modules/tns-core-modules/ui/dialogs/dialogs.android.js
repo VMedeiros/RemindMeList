@@ -205,14 +205,14 @@ function login(arg) {
     }
     return new Promise(function (resolve, reject) {
         try {
-            var context_1 = application_1.android.foregroundActivity;
+            var context = application_1.android.foregroundActivity;
             var alert_4 = createAlertDialog(options);
-            var userNameInput_1 = new android.widget.EditText(context_1);
+            var userNameInput_1 = new android.widget.EditText(context);
             userNameInput_1.setText(options.userName ? options.userName : "");
-            var passwordInput_1 = new android.widget.EditText(context_1);
+            var passwordInput_1 = new android.widget.EditText(context);
             passwordInput_1.setInputType(android.text.InputType.TYPE_CLASS_TEXT | android.text.InputType.TYPE_TEXT_VARIATION_PASSWORD);
             passwordInput_1.setText(options.password ? options.password : "");
-            var layout = new android.widget.LinearLayout(context_1);
+            var layout = new android.widget.LinearLayout(context);
             layout.setOrientation(1);
             layout.addView(userNameInput_1);
             layout.addView(passwordInput_1);

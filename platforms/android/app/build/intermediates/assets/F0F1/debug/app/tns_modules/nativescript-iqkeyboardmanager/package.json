@@ -1,0 +1,61 @@
+{
+  "_from": "nativescript-iqkeyboardmanager@^1.0.1",
+  "_id": "nativescript-iqkeyboardmanager@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-4mHtiXvhGA/sd1f0ZgT1JVMFWHU=",
+  "_location": "/nativescript-iqkeyboardmanager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "nativescript-iqkeyboardmanager@^1.0.1",
+    "name": "nativescript-iqkeyboardmanager",
+    "escapedName": "nativescript-iqkeyboardmanager",
+    "rawSpec": "^1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-iqkeyboardmanager/-/nativescript-iqkeyboardmanager-1.2.0.tgz",
+  "_shasum": "e261ed897be1180fec7757f46604f52553055875",
+  "_spec": "nativescript-iqkeyboardmanager@^1.0.1",
+  "_where": "C:\\Pos_Victor\\giftler-master",
+  "author": {
+    "name": "TJ VanToll",
+    "email": "tj.vantoll@gmail.com",
+    "url": "http://tjvantoll.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/tjvantoll/nativescript-IQKeyboardManager/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Eddy Verbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "NativeScript wrapper of the popular IQKeyboardManager iOS library",
+  "homepage": "https://github.com/tjvantoll/nativescript-IQKeyboardManager",
+  "keywords": [
+    "NativeScript"
+  ],
+  "license": {
+    "type": "MIT"
+  },
+  "name": "nativescript-iqkeyboardmanager",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.4.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjvantoll/nativescript-IQKeyboardManager.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.2.0"
+}

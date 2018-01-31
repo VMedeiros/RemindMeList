@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\40bbf70a4c06d145f746fd71e18f90d5237ddcec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_bd8c31083296f41c64de88a3955e32630d780cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\d581c12eff1522e75c89de4fc3c3c73b84e424a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a9ab7bfebf4a8d5c7fb1ac4e5dcf4bc4d6e3a0e">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_853f487d882b953169f0d65bfaa443f2d9d5be60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\ca0f2806cddfaeaf4d9ed2b66d523a03fe25d94e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_6384792927d20d7e0907e1921312ba71e34df75c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\b6383f8db815541c7b1d828e07ab7b3d2c7293e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_2ab9f37e4db14d0eb859d9250229a943e7101142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\8309eeec69fec02ac2efb7b51a7d7e6d349d35eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_32b851ff45f9b6a448368c827d1e45526ece9824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\943dee2167ace4a25d9626b70acf51651218aa2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_e263f04ba1f20e30ad84cfc376526869943ff9d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\65fdec46342bee69b68149d46b1279df93217cdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="35d8afc7b357b4ece9b82c387361cf9ac97097ce">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_cdacc09aec8f1a39286717f0095019e2c059a26c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\88bb6717183d535eefcff7aeedd980a6e786fc34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_b885bad78458566355d054e619d0fa44a71b6f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\d84098151bf93f146d40c997a27ab20a639cbf74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3352405f829252e602a47d252f11edd7c89d86ff">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_ea673e8a35534d35d00b0acdd2c11a9707a573f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\cc4baa5e66e5c02ca975e74200c66c0ef4a0ef48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_384a60fc9600cf073e893a29a8b053042757b3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\937ae43bf1c6d8343d442127deddb1337873d6d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_6862526f83105782cfa55ee3a0e177fcb9665fde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\edc1a0087cb84e01d7a512694ca083e2cbfd44ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_0fc799118106c38cb248f56f4f9abcac43690e49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\677bb2d8ea732e27bfacf2e6b87ef896bb19dfbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_7f8cfe5f0537d1264a8a24aa48036bf05a6f9942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\gson-2.8.2_b6b14a64d04508e11c39efb6dca9c314d70b800f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\3566e631ef9b15e17e7cca49bfe4c901765339cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_a6176ded0e0ec64e1fdbb4242a95d174fc44ed33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\08ce1765ca3b8b4bd60beef96a6b6fb71b876b87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bceea9ecae6127fe2677fffebf1a1a20f19ca52e">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_dc261f4bbf575b712406752b4d303ec7d1e18ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\fc3b0a5fa3c78fe9eb229e0388117d3df2f5dcbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_1c252d11473dcc086a5d0039de5592b65769286c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\523a71270e8c78d1d887a033e5233ce2f56c1469\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_16f68f818d19e869a70fb2ef08ecc2f42a3d7270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jvleitao\.android\build-cache\5ede87b5d2c6c39119c2a4ab3323aaee4619e762\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Pos_Victor\giftler-master\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_c2d5f8a06dc323680fbfe221de382dd2e2d84f80.jar" />
+    </item>
+
+</items>

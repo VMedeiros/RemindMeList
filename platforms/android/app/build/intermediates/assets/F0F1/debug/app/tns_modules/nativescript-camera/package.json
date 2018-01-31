@@ -1,0 +1,46 @@
+{
+  "_from": "nativescript-camera@^0.0.8",
+  "_id": "nativescript-camera@0.0.8",
+  "_inBundle": false,
+  "_integrity": "sha1-kLOD3bZDGhk+Ug0843QJSZwYG+4=",
+  "_location": "/nativescript-camera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "nativescript-camera@^0.0.8",
+    "name": "nativescript-camera",
+    "escapedName": "nativescript-camera",
+    "rawSpec": "^0.0.8",
+    "saveSpec": null,
+    "fetchSpec": "^0.0.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-camera/-/nativescript-camera-0.0.8.tgz",
+  "_shasum": "90b383ddb6431a193e520d3ce37409499c181bee",
+  "_spec": "nativescript-camera@^0.0.8",
+  "_where": "C:\\Pos_Victor\\giftler-master",
+  "author": {
+    "name": "NativeScript team"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Provides API for using device camera",
+  "keywords": [
+    "NativeScript",
+    "camera",
+    "gallery",
+    "images"
+  ],
+  "main": "nativescript-camera",
+  "name": "nativescript-camera",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "version": "0.0.8"
+}
